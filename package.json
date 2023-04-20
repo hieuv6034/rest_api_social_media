@@ -1,0 +1,20 @@
+{
+  "name": "rest_api_social_media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieuv6034/rest_api_social_media.git"
+  },
+  "author": "minh_hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieuv6034/rest_api_social_media/issues"
+  },
+  "homepage": "https://github.com/hieuv6034/rest_api_social_media#readme"
+}
